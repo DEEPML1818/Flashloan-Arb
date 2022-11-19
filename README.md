@@ -1,4 +1,4 @@
-# TEsting on localhost
+# TEsting only on Localhost WITH the SCRIPTS file in the folder to test for mainnet plz fork the repo to remix.ethereum.org more instructions will be provided soon
 
 1. You will need 3 terminals opened to run it on localhost
 2. In the first terminal, use *yarn start* to start the local blockchain
