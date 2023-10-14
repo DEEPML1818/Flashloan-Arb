@@ -11,7 +11,3 @@
 
 ## Disclaimer
 Although it works in theory, running this on a live network will make you lose ALL your money.
-
-Example **lucky** live network transaction: https://snowtrace.io/tx/0x5a1b5675719f55e586e39e28166cf3d86bf1c80c852a98be688468a239c66615
-
-Only considered lucky cause although it went through, it actually lost money once gas cost was included
